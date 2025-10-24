@@ -192,19 +192,18 @@ argocd app history hello-app
 
 - **Commits Automáticos do CI/CD**
     
-    ![Commits Automáticos](img/commits-automaticos-do-github-actions.png)
-    
+   <img width="1646" height="326" alt="commits-automaticos-do-github-actions" src="https://github.com/user-attachments/assets/78bdcc51-4560-423f-a84c-ef4814da5050" />
+
 - **Aplicação Sincronizada no ArgoCD**
     
-    ![ArgoCD Sync](img/aplicacao-rodando-no-argocd.png)
-    
+    <img width="530" height="476" alt="aplicacao-rodando-no-argocd" src="https://github.com/user-attachments/assets/e99648f1-e851-43f3-9337-12a6ddafbe13" />
+
 - **Recursos Kubernetes Implantados**
     
-    ![Kubernetes Resources](img/kubectl-get-pods.png)
-    ![Kubernetes Resources](img/kubectl-get-deployment-hello-app.png)
-    ![Kubernetes Resources](img/kubectl-get-services.png)
-    ![Kubernetes Resources](img/kubectl-get-all.png)
-    
+    <img width="841" height="88" alt="kubectl-get-pods" src="https://github.com/user-attachments/assets/98b4e0e2-17b3-4d58-8c6f-852887d11034" />
+    <img width="615" height="76" alt="kubectl-get-deployment-hello-app" src="https://github.com/user-attachments/assets/bca86a69-c4bf-4e5e-9fb0-5eee44dd7235" />
+    <img width="1002" height="113" alt="kubectl-get-services" src="https://github.com/user-attachments/assets/f7f09262-2af6-4ded-9863-1e19e084dde4" />
+    <img width="938" height="218" alt="kubectl-get-all" src="https://github.com/user-attachments/assets/fe444f25-0248-4d05-a046-3414050a795f" />
 
 ## 7. Benefícios da Abordagem GitOps
 
