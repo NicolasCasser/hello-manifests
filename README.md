@@ -203,6 +203,7 @@ argocd app history hello-app
     ![Kubernetes Resources](img/kubectl-get-pods.png)
     ![Kubernetes Resources](img/kubectl-get-deployment-hello-app.png)
     ![Kubernetes Resources](img/kubectl-get-services.png)
+    ![Kubernetes Resources](img/kubectl-get-all.png)
     
 
 ## 7. Benefícios da Abordagem GitOps
