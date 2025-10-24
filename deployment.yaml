@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: hello-app
-        image: nicolascasser/hello-app:0c68e8469b914a2760e385dd9ce746fcca4fa486
+        image: nicolascasser/hello-app:524113553d11854ce4a9b405b8396e3d8b989f0f
         ports:
         - containerPort: 8000
         livenessProbe:
