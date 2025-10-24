@@ -201,6 +201,8 @@ argocd app history hello-app
 - **Recursos Kubernetes Implantados**
     
     ![Kubernetes Resources](img/kubectl-get-pods.png)
+    ![Kubernetes Resources](img/kubectl-get-deployment-hello-app.png)
+    ![Kubernetes Resources](img/kubectl-get-services.png)
     
 
 ## 7. Benefícios da Abordagem GitOps
@@ -214,6 +216,6 @@ argocd app history hello-app
 
 ## 8. Repositório Relacionado
 
-[hello-app](https://www.notion.so/URL_DO_REPOSITORIO_HELLO_APP) - Contém o código fonte da aplicação FastAPI e o pipeline CI/CD que atualiza automaticamente este repositório.
+[hello-app](https://github.com/NicolasCasser/hello-app/tree/main) - Contém o código fonte da aplicação FastAPI e o pipeline CI/CD que atualiza automaticamente este repositório.
 
 ---
