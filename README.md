@@ -192,7 +192,7 @@ argocd app history hello-app
 
 - **Commits Automáticos do CI/CD**
     
-    ![Commits Automáticos](img/auto-commits.png)
+    ![Commits Automáticos](img/commits-automaticos-do-github-actions.png)
     
 - **Aplicação Sincronizada no ArgoCD**
     
